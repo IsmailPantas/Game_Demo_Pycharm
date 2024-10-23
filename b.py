@@ -1,8 +1,7 @@
 import pygame
 import random
 import button
-import mainchar
-from screen import Pencere
+
 
 pygame.init()
 
