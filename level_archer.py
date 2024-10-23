@@ -2,7 +2,7 @@ import pygame
 import random
 import button
 import mainchar
-from asdasdasda import Pencere
+from screen import Pencere
 
 pygame.init()
 

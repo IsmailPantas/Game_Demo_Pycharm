@@ -1,6 +1,6 @@
 import pygame
 import random
-from asdasdasda import Pencere
+from screen import Pencere
 pygame.init()
 
 
